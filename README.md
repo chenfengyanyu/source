@@ -1,8 +1,8 @@
 # [Jartto's blog](http://jartto.wang/)
-最遗憾的不是把梦想丢在路上，而是梦想从未上路！
+> 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2017
-### 十.良月 ~ 世界上没有做错的事情，永远是时间不恰当
+### 十.良月 ~ 华丽的跌倒，胜过无谓的徘徊
 - [HTML5 拖放实现](http://jartto.wang/2017/10/10/html5-drag-and-drop/)
 
 ### 九.玄月 ~ 不要用战术的勤奋掩盖战略的懒惰
@@ -25,23 +25,23 @@
 
 ### 三.寐月 ~ 当你连苟且都靠运气的话，诗和远方就是个笑话
 
-### 二.如月
+### 二.如月 ~ 看不清未来，就做好现在
 - [在 React 中接入高德地图（AMap）](http://jartto.wang/2017/02/19/use-AMap-in-React/)
 - [掌握 React 组件 Component](http://jartto.wang/2017/02/19/grasp-react-component/)
-### 一.华月
+### 一.华月 ~ 世界上没有做错的事情，永远是时间不恰当
 - [使用js巧妙处理金额数字](http://jartto.wang/2017/01/23/delicate-handling-of-Amount-of-Money/)
 - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
 
 ## 2016
-### 十二.涂月
+### 十二.涂月 ~ 所谓迷茫，就是才华配不上梦想
 - [一起来学习Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/)
 - [yslow 优化之 add expires headers](http://jartto.wang/2016/12/08/yslow-add-expires-headers/)
 - [再谈ie浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/)
 
-### 十一.葭月
+### 十一.葭月 ~ 瞬间永远不会比久远厚重
 - [linux 实用命令](http://jartto.wang/2016/11/02/linux-common-command/)
 
-### 十.良月
+### 十.良月 ~ 当你的野心支撑不了你的梦想的时候，该努力了
 - [js能够保证object属性的输出顺序吗？](http://jartto.wang/2016/10/25/does-js-guarantee-object-property-order/)
 - [掌握linux命令grep](http://jartto.wang/2016/10/12/grasp-linux-grep/)
 - [关于html中的base标签](http://jartto.wang/2016/10/01/about-html-base-tag/)
@@ -53,7 +53,7 @@
 - [安装Homebrew异常处理](http://jartto.wang/2016/09/08/exception-of-the-homebrew-installation/)
 - [web font 终极解决方案](http://jartto.wang/2016/09/04/final-solution-of-the-web-font/)
 
-### 八.桂月 ~ 瞬间永远不会比久远厚重
+### 八.桂月
 - [js动画库推荐](http://jartto.wang/2016/08/23/js-animation-library-recommendation/)
 - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
 - [将html转化成markdown文档](http://jartto.wang/2016/08/11/convert-html-into-markdown/)
@@ -157,4 +157,4 @@
 - [Angularjs学习笔记01~作用域Scope](http://jartto.wang/2014/03/28/angularjs-part-2/)
 - [Angularjs学习笔记～目录](http://jartto.wang/2014/03/26/angularjs-part-1/)
 
-> 有些路，走下去，会很苦很累，但是不走，会后悔。
+# 有些路，走下去，会很苦很累，但是不走，会后悔。
