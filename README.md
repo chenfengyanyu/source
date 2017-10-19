@@ -84,4 +84,71 @@
 ## 2015
 ### 良月（十月）
 - [javascript中双叹号(!!)作用](http://jartto.wang/2015/10/18/about-js-double-exclamation/)
+- [Mac下如何删除.DS_Store文件](http://jartto.wang/2015/10/05/how-to-delete-DS-Store-of-Mac/)
+- [熟练使用vim编辑器](http://jartto.wang/2015/10/03/skilful-with-vim/)
+- [浅谈AJAX的优缺点](http://jartto.wang/2015/10/01/advantage-and-disadvantages-of-Ajax/)
 
+### 玄月（九月）
+- [git错误汇总（下）](http://jartto.wang/2015/09/28/git-error-summary-part-2/)
+- [git错误汇总（上）](http://jartto.wang/2015/09/26/git-error-summary-part-1/)
+- [git实践系列十：常用技巧](http://jartto.wang/2015/09/25/git-part-10/)
+- [git实践系列九：撤销操作](http://jartto.wang/2015/09/22/git-part-9/)
+- [git实践系列八：合并与冲突](http://jartto.wang/2015/09/21/git-part-8/)
+- [git实践系列七：迁出和回退](http://jartto.wang/2015/09/18/git-part-7/)
+- [git实践系列六：分支](http://jartto.wang/2015/09/13/git-part-6/)
+- [git实践系列五：日志和标签](http://jartto.wang/2015/09/13/git-part-5/)
+- [git实践系列四：添加，提交以及推送](http://jartto.wang/2015/09/11/git-part-4/)
+- [git实践系列三：移动，移除与提交](http://jartto.wang/2015/09/10/git-part-3/)
+- [git学习资源汇总](http://jartto.wang/2015/09/08/summarize-the-git/)
+- [git实践系列二：创建新仓库](http://jartto.wang/2015/09/08/git-part-2/)
+- [git实践系列一：初探](http://jartto.wang/2015/09/07/git-part-1/)
+- [ajax杂谈](http://jartto.wang/2015/09/01/chattered-about-ajax/)
+
+### 桂月（八月）
+- [trigger和bind](http://jartto.wang/2015/08/29/trigger-and-bind/)
+
+### 凉月（七月）
+- [Markdown语法浅析](http://jartto.wang/2015/07/05/Comprehension-of-Markdown-Grammatical-Structure/)
+
+### 旦月（六月）
+- [Angularjs知识分享](http://jartto.wang/2015/06/29/summarize-the-angularjs/)
+- [移动端touchend事件不触发解决方案](http://jartto.wang/2015/06/25/solutions-to-touchend-on-mobile/)
+
+### 皋月（五月）
+- [趣谈document.write](http://jartto.wang/2015/05/04/faverite-subject-of-document.write/)
+
+### 清和月（四月）
+- [js中Math之random,round,ceil,floor用法总结](http://jartto.wang/2015/04/30/js-random-round-ceil-floor/)
+
+### 寐月（三月）
+- [细说typeof与instanceof](http://jartto.wang/2015/03/25/go-into-details-about-typeof-and-instanceof/)
+
+### 如月（二月）
+- [关于Hbuilder](http://jartto.wang/2015/02/13/about-hbuilder/)
+
+## 2014
+### 桂月（八月）
+- [js之如何访问函数内部变量](http://jartto.wang/2014/08/20/js-variable/)
+
+### 皋月（五月）
+- [Angularjs学习笔记16~总结](http://jartto.wang/2014/05/25/angularjs-part-17/)
+- [Angularjs学习笔记15~项目演示（二）](http://jartto.wang/2014/05/21/angularjs-part-16/)
+- [Angularjs学习笔记14~项目演示（一）](http://jartto.wang/2014/05/20/angularjs-part-15/)
+- [Angularjs学习笔记13~路由 Route](http://jartto.wang/2014/05/11/angularjs-part-14/)
+- [Angularjs学习笔记12~服务 Service（二）创建服务](http://jartto.wang/2014/05/08/angularjs-part-13/)
+- [Angularjs学习笔记11~服务 Service（一）内建服务](http://jartto.wang/2014/05/05/angularjs-part-12/)
+- [Angularjs学习笔记10~指令 Directive（三）自定义验证实例](http://jartto.wang/2014/05/03/angularjs-part-11/)
+
+### 清和月（四月）
+- [Angularjs学习笔记09~指令 Directive（二）参数定义](http://jartto.wang/2014/04/28/angularjs-part-10/)
+- [Angularjs学习笔记08~指令 Directive（一）初探](http://jartto.wang/2014/04/28/angularjs-part-9/)
+- [Angularjs学习笔记07~表单验证](http://jartto.wang/2014/04/25/angularjs-part-8/)
+- [Angularjs学习笔记06~依赖注入 DI](http://jartto.wang/2014/04/24/angularjs-part-7/)
+- [Angularjs学习笔记05~模板 Template](http://jartto.wang/2014/04/20/angularjs-part-6/)
+- [Angularjs学习笔记04~过滤器 Filter](http://jartto.wang/2014/04/14/angularjs-part-5/)
+- [Angularjs学习笔记03~数据绑定 Data-Binding](http://jartto.wang/2014/04/01/angularjs-part-4/)
+
+### 寐月（三月）
+- [Angularjs学习笔记02~控制器Controller](http://jartto.wang/2014/03/29/angularjs-part-3/)
+- [Angularjs学习笔记01~作用域Scope](http://jartto.wang/2014/03/28/angularjs-part-2/)
+- [Angularjs学习笔记～目录](http://jartto.wang/2014/03/26/angularjs-part-1/)
