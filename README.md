@@ -164,4 +164,6 @@
 - [Angularjs学习笔记01~作用域Scope](http://jartto.wang/2014/03/28/angularjs-part-2/)
 - [Angularjs学习笔记～目录](http://jartto.wang/2014/03/26/angularjs-part-1/)
 
-# 有些路，走下去，会很苦很累，但是不走，会后悔。
+
+
+> 有些路，走下去，会很苦很累，但是不走，会后悔。
