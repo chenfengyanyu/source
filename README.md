@@ -2,13 +2,13 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2017
-### 十、良月 ~ 华丽的跌倒，胜过无谓的徘徊
+### 十、良月
 - [HTML5 拖放实现](http://jartto.wang/2017/10/10/html5-drag-and-drop/)
 
-### 九、玄月 ~ 不要用战术的勤奋掩盖战略的懒惰
+### 九、玄月
 - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
 
-### 八、桂月 ~ 唯有跑步和读书不可辜负
+### 八、桂月
 - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
 
 ### 七、凉月 ~ 迁移中
@@ -26,30 +26,30 @@
 - [Nginx 使用与异常处理](#)
 - [在 React 中接入 Google Map](#)
 
-### 三、寐月 ~ 当你连苟且都靠运气的话，诗和远方就是个笑话
+### 三、寐月
 - [JS 数组操作汇总](#)
 - [chrome插件 postman](#)
 - [Flex 布局技巧](#)
 - [好看的 UI Kits](#)
 
-### 二、如月 ~ 看不清未来，就做好现在
+### 二、如月
 - [在 React 中接入高德地图（AMap）](http://jartto.wang/2017/02/19/use-AMap-in-React/)
 - [掌握 React 组件 Component](http://jartto.wang/2017/02/19/grasp-react-component/)
 
-### 一、华月 ~ 世界上没有做错的事情，永远是时间不恰当
+### 一、华月
 - [使用js巧妙处理金额数字](http://jartto.wang/2017/01/23/delicate-handling-of-Amount-of-Money/)
 - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
 
 ## 2016
-### 十二、涂月 ~ 所谓迷茫，就是才华配不上梦想
+### 十二、涂月
 - [一起来学习Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/)
 - [yslow 优化之 add expires headers](http://jartto.wang/2016/12/08/yslow-add-expires-headers/)
 - [再谈ie浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/)
 
-### 十一、葭月 ~ 瞬间永远不会比久远厚重
+### 十一、葭月
 - [linux 实用命令](http://jartto.wang/2016/11/02/linux-common-command/)
 
-### 十、良月 ~ 当你的野心支撑不了你的梦想的时候，该努力了
+### 十、良月
 - [js能够保证object属性的输出顺序吗？](http://jartto.wang/2016/10/25/does-js-guarantee-object-property-order/)
 - [掌握linux命令grep](http://jartto.wang/2016/10/12/grasp-linux-grep/)
 - [关于html中的base标签](http://jartto.wang/2016/10/01/about-html-base-tag/)
