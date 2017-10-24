@@ -3,7 +3,7 @@
 
 ## 2017
 ### 十、良月
-- [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/ _blank)
+- [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
 
 ### 九、玄月
 - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
