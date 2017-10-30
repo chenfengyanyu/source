@@ -25,7 +25,7 @@
 ### 四、清和月 ~ 迁移中
 - [探路 Roadhog ](http://jartto.wang/2017/04/25/gating-roadhog/)
 - [Nginx 使用与异常处理](#)
-- [有趣的动态天气插件](http://jartto.wang/2017/04/10/funny-plugin-for-dynamic-weather/)
+- [有趣的动态天气图标插件](http://jartto.wang/2017/04/10/funny-plugin-for-dynamic-weather/)
 
 ### 三、寐月 ~ 迁移中
 - [JS 数组操作汇总](#)
