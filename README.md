@@ -4,6 +4,7 @@
 ## 2017
 ### 十一、葭月
 - [开发 Chrome 插件示例](#)(~ 酝酿中)
+- [前端实用小贴士](#)(~ 酝酿中)
 - [何谓 JS 挖矿](#)(~ 酝酿中)
 
 ### 十、良月
@@ -14,6 +15,7 @@
 ### 九、玄月
 - [详谈层合成（Composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
 - [JS 字符串操作汇总](#)(~ 迁移中)
+- [熟练掌握 Lodash](#)(~ 迁移中)
 
 ### 八、桂月
 - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
@@ -21,6 +23,7 @@
 ### 七、凉月
 - [Audio 小调研](#)(~ 迁移中)
 - [大话 requestAnimationFrame ](#)(~ 迁移中)
+- [ESlint 与 JSHint](#)(~ 迁移中)
 
 ### 六、旦月
 - [H5 音频合成（SpeechSynthesisUtterance）](#)(~ 迁移中)
