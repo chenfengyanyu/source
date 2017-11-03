@@ -2,12 +2,17 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2017
+### 十一、葭月
+- [何谓 JS 挖矿？](#)
+
 ### 十、良月
-- [js 反混淆](http://jartto.wang/2017/10/31/js-anti-aliasing/)
+- [JS 反混淆](http://jartto.wang/2017/10/31/js-anti-aliasing/)
 - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
+- [JS 花式编程](#)
 
 ### 九、玄月
-- [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
+- [详谈层合成（Composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
+- [JS 字符串操作汇总](#)
 
 ### 八、桂月
 - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
@@ -29,7 +34,7 @@
 
 ### 三、寐月 ~ 迁移中
 - [JS 数组操作汇总](#)
-- [chrome 插件 postman](#)
+- [Chrome 插件 Postman](#)
 - [Flex 布局技巧](#)
 - [好看的 UI Kits](http://jartto.wang/2017/03/06/beautiful-ui-kit/)
 
@@ -38,29 +43,29 @@
 - [掌握 React 组件 Component](http://jartto.wang/2017/02/19/grasp-react-component/)
 
 ### 一、华月
-- [使用 js 巧妙处理金额数字](http://jartto.wang/2017/01/23/delicate-handling-of-Amount-of-Money/)
+- [使用 JS 巧妙处理金额数字](http://jartto.wang/2017/01/23/delicate-handling-of-Amount-of-Money/)
 - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
 
 ## 2016
 ### 十二、涂月
 - [一起来学习 Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/)
 - [yslow 优化之 add expires headers](http://jartto.wang/2016/12/08/yslow-add-expires-headers/)
-- [再谈 ie 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/)
+- [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/)
 
 ### 十一、葭月
-- [linux 实用命令](http://jartto.wang/2016/11/02/linux-common-command/)
+- [Linux 实用命令](http://jartto.wang/2016/11/02/linux-common-command/)
 
 ### 十、良月
-- [js 能够保证 object 属性的输出顺序吗？](http://jartto.wang/2016/10/25/does-js-guarantee-object-property-order/)
-- [掌握 linux 命令 grep](http://jartto.wang/2016/10/12/grasp-linux-grep/)
-- [关于 html 中的 base 标签](http://jartto.wang/2016/10/01/about-html-base-tag/)
+- [JS 能够保证 Object 属性的输出顺序吗？](http://jartto.wang/2016/10/25/does-js-guarantee-object-property-order/)
+- [掌握 Linux 命令 Grep](http://jartto.wang/2016/10/12/grasp-linux-grep/)
+- [关于 HTML 中的 Base 标签](http://jartto.wang/2016/10/01/about-html-base-tag/)
 
 ### 九、玄月
 - [Mac 下查看端口占用情况](http://jartto.wang/2016/09/28/check-the-system-port-of-mac/)
-- [掌握 js 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/)
-- [走进 svg](http://jartto.wang/2016/09/10/step-in-svg/)
+- [掌握 JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/)
+- [走进 SVG](http://jartto.wang/2016/09/10/step-in-svg/)
 - [安装 Homebrew 异常处理](http://jartto.wang/2016/09/08/exception-of-the-homebrew-installation/)
-- [web font 终极解决方案](http://jartto.wang/2016/09/04/final-solution-of-the-web-font/)
+- [Web Font 终极解决方案](http://jartto.wang/2016/09/04/final-solution-of-the-web-font/)
 
 ### 八、桂月
 - [js 动画库推荐](http://jartto.wang/2016/08/23/js-animation-library-recommendation/)
