@@ -11,19 +11,27 @@
 - [JS 反混淆](http://jartto.wang/2017/10/31/js-anti-aliasing/)
 - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
 - [JS 花式编程](#)(~ 迁移中)
+- [ES6 边学变用（七）](#)(~ 迁移中)
+
 
 ### 九、玄月
+- [ES6 边学变用（六）](#)(~ 迁移中)
 - [详谈层合成（Composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
 - [JS 字符串操作汇总](#)(~ 迁移中)
 - [熟练掌握 Lodash](#)(~ 迁移中)
+- [ES6 边学变用（五）](#)(~ 迁移中)
+
 
 ### 八、桂月
 - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
+- [ES6 边学变用（四）](#)(~ 迁移中)
+- [ES6 边学变用（三）](#)(~ 迁移中)
 
 ### 七、凉月
 - [Audio 小调研](#)(~ 迁移中)
 - [大话 requestAnimationFrame ](#)(~ 迁移中)
 - [ESlint 与 JSHint](#)(~ 迁移中)
+- [ES6 边学变用（二）](#)(~ 迁移中)
 
 ### 六、旦月
 - [H5 音频合成（SpeechSynthesisUtterance）](#)(~ 迁移中)
