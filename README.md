@@ -43,7 +43,7 @@
 
 ### 四、清和月
 - [探路 Roadhog ](http://jartto.wang/2017/04/25/gating-roadhog/)
-- [Nginx 使用与异常处理](#)(~ 迁移中)
+- [Nginx 使用与异常处理](http://jartto.wang/2017/04/15/nginx-exception-handling/)
 - [有趣的动态天气图标插件](http://jartto.wang/2017/04/10/funny-plugin-for-dynamic-weather/)
 
 ### 三、寐月
