@@ -4,13 +4,13 @@
 ## 2017
 ### 十一、葭月
 - [开发 Chrome 插件示例](#)(~ 酝酿中)
-- [前端实用小贴士](#)(~ 酝酿中)
+- [前端实用 Tips](#)(~ 酝酿中)
 - [何谓 JS 挖矿](#)(~ 酝酿中)
 
 ### 十、良月
 - [JS 反混淆](http://jartto.wang/2017/10/31/js-anti-aliasing/)
 - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
-- [JS 花式编程](#)(~ 迁移中)
+- [JS 花式编程](http://jartto.wang/2017/10/18/js-fancy-programming/)
 - [ES6 边学边用（七）](#)(~ 迁移中)
 
 
@@ -37,16 +37,16 @@
 - [H5 音频合成（SpeechSynthesisUtterance）](#)(~ 迁移中)
 - [ES6 边学边用（一）](#)(~ 迁移中)
 
-### 五、皋月 ~ 迁移中
+### 五、皋月
 - [在 React 中接入 Google Map](#)(~ 迁移中)
 - [Howler 音频播放插件](#)(~ 迁移中)
 
-### 四、清和月 ~ 迁移中
+### 四、清和月
 - [探路 Roadhog ](http://jartto.wang/2017/04/25/gating-roadhog/)
 - [Nginx 使用与异常处理](#)(~ 迁移中)
 - [有趣的动态天气图标插件](http://jartto.wang/2017/04/10/funny-plugin-for-dynamic-weather/)
 
-### 三、寐月 ~ 迁移中
+### 三、寐月
 - [JS 数组操作汇总](#)(~ 迁移中)
 - [Chrome 插件 Postman](#)(~ 迁移中)
 - [Flex 布局技巧](#)(~ 迁移中)
