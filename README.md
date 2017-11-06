@@ -11,8 +11,6 @@
 - [JS 反混淆](http://jartto.wang/2017/10/31/js-anti-aliasing/)
 - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
 - [JS 花式编程](http://jartto.wang/2017/10/18/js-fancy-programming/)
-- [ES6 边学边用（七）](#)(~ 迁移中)
-
 
 ### 九、玄月
 - [ES6 边学变用（六）](#)(~ 迁移中)
