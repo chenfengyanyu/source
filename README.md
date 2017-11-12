@@ -4,7 +4,7 @@
 ## 2017
 ### 十一、葭月
 - [开发 Chrome 插件示例](#)(~ 酝酿中)
-- [前端开发实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
+- [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
 - [何谓 JS 挖矿](#)(~ 酝酿中)
 
 ### 十、良月
