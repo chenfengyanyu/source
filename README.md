@@ -6,7 +6,7 @@
 - [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/)
 - [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
 - [何谓 JS 挖矿](#)(~ 酝酿中)
-- [开发 Chrome 插件示例](#)(~ 酝酿中)
+- [x][开发 Chrome 插件示例](#)(~ 酝酿中)
 
 ### 十、良月
 - [JS 反混淆](http://jartto.wang/2017/10/31/js-anti-aliasing/)
