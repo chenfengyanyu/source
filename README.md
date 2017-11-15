@@ -17,7 +17,7 @@
 - [x] [JS 花式编程](http://jartto.wang/2017/10/18/js-fancy-programming/)
 
 ### 九、玄月
-- [ ] [ES6 边学变用（六）](#)
+- [ ] [ES6 边学边用（六）](#)
 - [x] [详谈层合成（Composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
 - [ ] [JS 字符串操作汇总](#)
 - [ ] [熟练掌握 Lodash](#)
