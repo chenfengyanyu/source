@@ -42,7 +42,7 @@
 
 ### 五、皋月
 - [ ] [HTML5 之消息通知（Web Notification）](#)
-- [ ] [在 React 中接入 Google Map](#)
+- [x] [在 React 中接入 Google Map](http://jartto.wang/2017/05/18/use-google-map-in-react/)
 - [ ] [Howler 音频播放插件](#)
 
 ### 四、清和月
