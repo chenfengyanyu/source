@@ -6,7 +6,7 @@
 - [ ] [HTML 之 Title 应用](#)
 - [ ] [掌握 Async/Await ](#)
 - [x] [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/)
-- [x] [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
+- [x] [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)<img src="https://badge.juejin.im/entry/5a09192b6fb9a04504075cc1/likes.svg?style=flat-square">
 - [ ] [何谓 JS 挖矿](#)
 - [ ] [开发 Chrome 插件示例](#)
 
