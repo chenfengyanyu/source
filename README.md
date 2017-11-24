@@ -3,11 +3,12 @@
 
 ## 2017
 ### 十一、葭月
-- [ ] [HTML 之 Title 应用](#)
+- [ ] [HTML 之 Title 妙用](#)
 - [x] [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/)
 - [x] [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
 - [x] [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/)
-- [ ] [开发 Chrome 插件示例](#)
+- [ ] [你了解软件测试吗？](#)
+
 
 ### 十、良月
 - [ ] [掌握 Async/Await ](#)
@@ -28,6 +29,7 @@
 - [x] [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
 - [ ] [ES6 边学边用（四）](#)
 - [ ] [ES6 边学边用（三）](#)
+- [ ] [开发 Chrome 插件示例](#)
 
 ### 七、凉月
 - [ ] [Audio 小调研](#)
@@ -59,7 +61,7 @@
 ### 二、如月
 - [x] [在 React 中接入高德地图（AMap）](http://jartto.wang/2017/02/19/use-AMap-in-React/)
 - [x] [掌握 React 组件 Component](http://jartto.wang/2017/02/19/grasp-react-component/)
-- [ ] [CSS 三大特性](#)
+- [x] [CSS 三大特性](#)
 
 ### 一、华月
 - [x] [使用 JS 巧妙处理金额数字](http://jartto.wang/2017/01/23/delicate-handling-of-Amount-of-Money/)
