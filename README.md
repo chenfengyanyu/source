@@ -38,7 +38,7 @@
 - [ ] [ES6 边学边用（二）](#)
 
 ### 六、旦月
-- [ ] [HTML5 之全屏（FUll Screen API）](#)
+- [x] [HTML5 之全屏（Fullscreen API）](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
 - [ ] [HTML5 之音频合成（SpeechSynthesisUtterance）](#)
 - [ ] [ES6 边学边用（一）](#)
 
