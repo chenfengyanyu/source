@@ -3,8 +3,10 @@
 
 ## 2017
 ### 十二、涂月
-- [ ] [HTML 之 Title 妙用](#)
-- [ ] [关于加密](#)
+- [x] [聊聊 Parcel](#)
+- [x] [ Web 安全之 XSS 和 CSRF](#)
+- [x] [掌握 JS Stack Trace](#)
+- [x] [初探加密协议](#)
 - [x] [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/)
 
 ### 十一、葭月
@@ -15,7 +17,7 @@
 - [x] [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/)
 
 ### 十、良月
-- [ ] [掌握 Async/Await ](#)
+- [x] [掌握 Async/Await ](#)
 - [ ] [掌握 CSS Grid 布局](#)
 - [x] [JS 反混淆](http://jartto.wang/2017/10/31/js-anti-aliasing/)
 - [x] [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
