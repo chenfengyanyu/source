@@ -3,10 +3,10 @@
 
 ## 2017
 ### 十二、涂月
-- [x] [聊聊 Parcel](#)
-- [x] [ Web 安全之 XSS 和 CSRF](#)
-- [x] [掌握 JS Stack Trace](#)
-- [x] [初探加密协议](#)
+- [x] [聊聊 Parcel](http://jartto.wang/2017/12/09/chattered-about-parcel/)
+- [x] [掌握 JS Stack Trace](http://jartto.wang/2017/12/08/grasp-js-stack-trace/)
+- [x] [Web 安全之 XSS 和 CSRF](http://jartto.wang/2017/12/07/xss-and-csrf/)
+- [x] [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
 - [x] [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/)
 
 ### 十一、葭月
@@ -17,11 +17,11 @@
 - [x] [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/)
 
 ### 十、良月
-- [x] [掌握 Async/Await ](#)
 - [ ] [掌握 CSS Grid 布局](#)
 - [x] [JS 反混淆](http://jartto.wang/2017/10/31/js-anti-aliasing/)
 - [x] [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
 - [x] [JS 花式编程](http://jartto.wang/2017/10/18/js-fancy-programming/)
+- [x] [掌握 Async/Await ](http://jartto.wang/2017/10/06/js-async-and-await/)
 
 ### 九、玄月
 - [ ] [ES6 边学边用（六）](#)
