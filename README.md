@@ -3,6 +3,8 @@
 
 ## 2017
 ### 十二、涂月
+- [ ] [如何配置 Git 对应多个 Repository](#)
+- [ ] [反思闭包](#)
 - [x] [Web 安全之 XSS 和 CSRF](http://jartto.wang/2017/12/15/xss-and-csrf/)
 - [x] [聊聊 Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/)
 - [x] [掌握 JS Stack Trace](http://jartto.wang/2017/12/09/grasp-js-stack-trace/)
