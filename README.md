@@ -3,8 +3,8 @@
 
 ## 2017
 ### 十二、涂月
-- [ ] [如何配置 Git 对应多个 Repository](#)
-- [ ] [反思闭包](#)
+- [x] [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/)
+- [x] [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/)
 - [x] [Web 安全之 XSS 和 CSRF](http://jartto.wang/2017/12/15/xss-and-csrf/)
 - [x] [聊聊 Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/)
 - [x] [掌握 JS Stack Trace](http://jartto.wang/2017/12/09/grasp-js-stack-trace/)
@@ -17,6 +17,7 @@
 - [x] [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
 - [x] [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/)
 - [x] [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/)
+- [ ] [jQuery 插件 range.slider](#)
 
 ### 十、良月
 - [ ] [掌握 CSS Grid 布局](#)
