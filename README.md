@@ -17,7 +17,7 @@
 - [x] [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
 - [x] [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/)
 - [x] [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/)
-- [ ] [jQuery 插件 range.slider](#)
+- [x] [jQuery 插件 range.slider](http://jartto.wang/2017/11/01/range-slider-for-jquery/)
 
 ### 十、良月
 - [ ] [掌握 CSS Grid 布局](#)
