@@ -54,7 +54,7 @@
 ### 五、皋月
 - [ ] [HTML5 之消息通知（Web Notification）](#)
 - [x] [在 React 中接入 Google Map](http://jartto.wang/2017/05/18/use-google-map-in-react/)
-- [ ] [Howler 音频播放插件](#)
+- [x] [Howler 音频播放插件](http://jartto.wang/2017/05/03/guide-of-howler/)
 
 ### 四、清和月
 - [x] [探路 Roadhog ](http://jartto.wang/2017/04/25/gating-roadhog/)
@@ -62,7 +62,7 @@
 - [x] [有趣的动态天气图标插件](http://jartto.wang/2017/04/10/funny-plugin-for-dynamic-weather/)
 
 ### 三、寐月
-- [ ] [JS 数组操作汇总](#)
+- [x] [JS 数组操作汇总](http://jartto.wang/2017/03/28/about-js-array/)
 - [ ] [Chrome 插件 Postman](#)
 - [ ] [Flex 布局技巧](#)
 - [x] [好看的 UI Kits](http://jartto.wang/2017/03/06/beautiful-ui-kit/)
