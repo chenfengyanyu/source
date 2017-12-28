@@ -3,6 +3,7 @@
 
 ## 2017
 ### 十二、涂月
+- [x] [如何解决 Git 仓库嵌套问题](http://jartto.wang/2017/12/28/cannot-nest-git-repository/)
 - [x] [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/)
 - [x] [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/)
 - [x] [Web 安全之 XSS 和 CSRF](http://jartto.wang/2017/12/15/xss-and-csrf/)
