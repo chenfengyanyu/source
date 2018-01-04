@@ -4,7 +4,7 @@
 ## 2018
 ### 一、华月
 - [ ] [初探 Electron - 实践篇](#)
-- [ ] [初探 Electron - 升华篇](#)
+- [x] [初探 Electron - 升华篇](http://jartto.wang/2018/01/04/first-exploration-electron-2/)
 - [x] [初探 Electron - 理论篇](http://jartto.wang/2018/01/03/first-exploration-electron/)
 
 ## 2017
