@@ -3,9 +3,12 @@
 
 ## 2018
 ### 一、华月
-- [ ] [初探 Electron - 总结篇](#)
-- [ ] [初探 Electron - 优化篇](#)
-- [ ] [初探 Electron - 实践篇2](#)
+- [x] [快速上手小程序](#)
+- [x] [玩转图片流](#)
+- [x] [初探 Electron - 总结篇](#)
+- [x] [初探 Electron - 优化篇](#)
+- [x] [初探 Electron - 实践篇2](#)
+- [x] [浅谈区块链](#)
 - [x] [初探 Electron - 实践篇1](http://jartto.wang/2018/01/14/first-exploration-electron-3/)
 - [x] [初探 Electron - 升华篇](http://jartto.wang/2018/01/04/first-exploration-electron-2/)
 - [x] [初探 Electron - 理论篇](http://jartto.wang/2018/01/03/first-exploration-electron/)
