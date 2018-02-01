@@ -2,8 +2,11 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2018
+### 二、如月
+- [x] [剖析 Angularjs 语法](http://jartto.wang/2018/02/01/analysis-of-angularjs/)
+
 ### 一、华月
-- [ ] [快速上手小程序](#)
+- [x] [快速上手小程序](http://jartto.wang/2018/01/25/quick-start-mini-programs/)
 - [x] [玩转图片流](http://jartto.wang/2018/01/19/play-image-stream/)
 - [x] [浅谈区块链](http://jartto.wang/2018/01/16/shallow-to-discuss-block-chain/)
 - [x] [初探 Electron - 实践篇2](http://jartto.wang/2018/01/21/first-exploration-electron-4/)
