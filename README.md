@@ -3,6 +3,7 @@
 
 ## 2018
 ### 二、如月
+- [x] [Web 优化之 Request](http://jartto.wang/2018/02/09/optimise-for-web-request/)
 - [x] [细数小程序的坑](http://jartto.wang/2018/02/08/count-pit-of-mini-programs/)
 - [x] [剖析 Angularjs 语法](http://jartto.wang/2018/02/01/analysis-of-angularjs/)
 
