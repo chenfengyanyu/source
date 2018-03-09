@@ -47,29 +47,22 @@
 - [x] [掌握 Async/Await ](http://jartto.wang/2017/10/06/js-async-and-await/)
 
 ### 九、玄月
-- [ ] [ES6 边学边用（六）](#)
 - [x] [详谈层合成（Composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
 - [ ] [JS 字符串操作汇总](#)
 - [ ] [熟练掌握 Lodash](#)
-- [ ] [ES6 边学边用（五）](#)
-
 
 ### 八、桂月
 - [x] [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
-- [ ] [ES6 边学边用（四）](#)
-- [ ] [ES6 边学边用（三）](#)
 - [ ] [开发 Chrome 插件示例](#)
 
 ### 七、凉月
 - [ ] [Audio 小调研](#)
 - [ ] [大话 requestAnimationFrame ](#)
 - [ ] [ESlint 与 JSHint](#)
-- [ ] [ES6 边学边用（二）](#)
 
 ### 六、旦月
 - [x] [HTML5 之全屏（Fullscreen API）](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
 - [ ] [HTML5 之音频合成（SpeechSynthesisUtterance）](#)
-- [ ] [ES6 边学边用（一）](#)
 
 ### 五、皋月
 - [ ] [HTML5 之消息通知（Web Notification）](#)
