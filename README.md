@@ -54,6 +54,7 @@
 ### 八、桂月
 - [x] [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
 - [ ] [开发 Chrome 插件示例](#)
+- [x] [前端面试积累](http://jartto.wang/2017/03/10/audition-of-f2e/)
 
 ### 七、凉月
 - [ ] [Audio 小调研](#)
@@ -63,6 +64,7 @@
 ### 六、旦月
 - [x] [HTML5 之全屏（Fullscreen API）](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
 - [ ] [HTML5 之音频合成（SpeechSynthesisUtterance）](#)
+- [x] [ES6 边学边用](http://jartto.wang/2017/06/09/use-es6/)
 
 ### 五、皋月
 - [ ] [HTML5 之消息通知（Web Notification）](#)
