@@ -60,11 +60,12 @@
 - [ ] [Audio 小调研](#)
 - [ ] [大话 requestAnimationFrame ](#)
 - [ ] [ESlint 与 JSHint](#)
+- [x] [ES6 边学边用二](http://jartto.wang/2017/07/05/use-es6-2/)
 
 ### 六、旦月
 - [x] [HTML5 之全屏（Fullscreen API）](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
 - [ ] [HTML5 之音频合成（SpeechSynthesisUtterance）](#)
-- [x] [ES6 边学边用](http://jartto.wang/2017/06/09/use-es6/)
+- [x] [ES6 边学边用一](http://jartto.wang/2017/06/09/use-es6/)
 
 ### 五、皋月
 - [ ] [HTML5 之消息通知（Web Notification）](#)
