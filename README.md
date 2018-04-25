@@ -3,6 +3,7 @@
 
 ## 2018
 ### 四、清和月
+- [x] [重写 Audio 样式](http://jartto.wang/2018/04/25/rewrite-audio-style/)
 - [ ] [强大的富文本编辑器 CKEditor](#)
 - [ ] [API 与 SDK](#)
 
