@@ -2,12 +2,17 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2018
+### 五、皋月
+
 ### 四、清和月
+- [ ] [前端反思录（三）－给自己一个强大的理由](http://jartto.wang/2018/04/29/audition-of-f2e-3/)
+- [x] [前端反思录（二）－不要让软实力成为短板](http://jartto.wang/2018/04/29/audition-of-f2e-2/)
 - [x] [重写 Audio 样式](http://jartto.wang/2018/04/25/rewrite-audio-style/)
 - [ ] [强大的富文本编辑器 CKEditor](#)
 - [ ] [API 与 SDK](#)
 
 ### 三、寐月
+- [x] [前端反思录（一）－技术就是核心竞争力](http://jartto.wang/2018/03/29/audition-of-f2e/)
 - [x] [掌握 HTTP2.0](http://jartto.wang/2018/03/30/grasp-http2-0/)
 - [x] [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/)
 - [x] [CSS 概要](http://jartto.wang/2018/03/06/outline-of-css/)
@@ -60,10 +65,8 @@
 ### 八、桂月
 - [x] [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
 - [ ] [开发 Chrome 插件示例](#)
-- [x] [前端面试积累](http://jartto.wang/2017/03/10/audition-of-f2e/)
 
 ### 七、凉月
-- [ ] [Audio 小调研](#)
 - [ ] [大话 requestAnimationFrame ](#)
 - [ ] [ESlint 与 JSHint](#)
 - [x] [ES6 边学边用二](http://jartto.wang/2017/07/05/use-es6-2/)
