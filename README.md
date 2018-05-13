@@ -3,9 +3,10 @@
 
 ## 2018
 ### 五、皋月
+- [ ] [Python 学习笔记 1](#)
 
 ### 四、清和月
-- [ ] [前端反思录（三）－给自己一个强大的理由](http://jartto.wang/2018/04/29/audition-of-f2e-3/)
+- [x] [前端反思录（三）－谈谈个人规划](http://jartto.wang/2018/04/29/audition-of-f2e-3/)
 - [x] [前端反思录（二）－不要让软实力成为短板](http://jartto.wang/2018/04/29/audition-of-f2e-2/)
 - [x] [重写 Audio 样式](http://jartto.wang/2018/04/25/rewrite-audio-style/)
 - [ ] [强大的富文本编辑器 CKEditor](#)
