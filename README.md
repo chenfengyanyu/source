@@ -9,8 +9,8 @@
 - [x] [前端反思录（三）－谈谈个人规划](http://jartto.wang/2018/04/29/audition-of-f2e-3/)
 - [x] [前端反思录（二）－不要让软实力成为短板](http://jartto.wang/2018/04/29/audition-of-f2e-2/)
 - [x] [重写 Audio 样式](http://jartto.wang/2018/04/25/rewrite-audio-style/)
-- [ ] [强大的富文本编辑器 CKEditor](#)
-- [ ] [API 与 SDK](#)
+- [x] [强大的富文本编辑器 CKEditor](http://jartto.wang/2018/05/13/about-ckeditor/)
+- [x] [API 与 SDK](http://jartto.wang/2018/05/13/api-and-sdk/)
 
 ### 三、寐月
 - [x] [前端反思录（一）－技术就是核心竞争力](http://jartto.wang/2018/03/29/audition-of-f2e/)
