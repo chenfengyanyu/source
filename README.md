@@ -3,17 +3,17 @@
 
 ## 2018
 ### 五、皋月
-- [ ] [Python 学习笔记 1](#)
+- [x] [Python 学习笔记 1](http://jartto.wang/2018/05/19/learn-python-1/)
 
 ### 四、清和月
 - [x] [前端反思录（三）－谈谈个人规划](http://jartto.wang/2018/04/29/audition-of-f2e-3/)
 - [x] [前端反思录（二）－不要让软实力成为短板](http://jartto.wang/2018/04/29/audition-of-f2e-2/)
+- [x] [前端反思录（一）－技术就是核心竞争力](http://jartto.wang/2018/03/29/audition-of-f2e/)
 - [x] [重写 Audio 样式](http://jartto.wang/2018/04/25/rewrite-audio-style/)
 - [x] [强大的富文本编辑器 CKEditor](http://jartto.wang/2018/05/13/about-ckeditor/)
 - [x] [API 与 SDK](http://jartto.wang/2018/05/13/api-and-sdk/)
 
 ### 三、寐月
-- [x] [前端反思录（一）－技术就是核心竞争力](http://jartto.wang/2018/03/29/audition-of-f2e/)
 - [x] [掌握 HTTP2.0](http://jartto.wang/2018/03/30/grasp-http2-0/)
 - [x] [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/)
 - [x] [CSS 概要](http://jartto.wang/2018/03/06/outline-of-css/)
