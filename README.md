@@ -3,7 +3,10 @@
 
 ## 2018
 ### 五、皋月
-- [x] [Python 学习笔记 1](http://jartto.wang/2018/05/19/learn-python-1/)
+- [ ] [Python 笔记 - 简单语法2](#)
+- [x] [Python 笔记 - 简单语法1](http://jartto.wang/2018/05/19/learn-python-1/)
+- [ ] [UmiJs 尝鲜](http://jartto.wang/2018/05/24/taste-of-umi/)
+- [ ] [构建你的 Dva2](http://jartto.wang/2018/05/24/build-your-dva2/)
 
 ### 四、清和月
 - [x] [前端反思录（三）－谈谈个人规划](http://jartto.wang/2018/04/29/audition-of-f2e-3/)
