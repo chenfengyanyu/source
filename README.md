@@ -3,11 +3,12 @@
 
 ## 2018
 ### 六、旦月
-- [ ] [Next.js 使用指南3 ～ 高级配置](#)
-- [ ] [Next.js 使用指南2 ～ 路由与加载](#)
-- [ ] [Next.js 使用指南1 ～ 基本规则](#)
+- [x] [Next.js 使用指南3 ～ 高级配置](http://jartto.wang/2018/06/08/nextjs-3/)
+- [x] [Next.js 使用指南2 ～ 路由与加载](http://jartto.wang/2018/06/01/nextjs-2/)
+- [x] [Next.js 使用指南1 ～ 基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
 
 ### 五、皋月
+- [ ] [Python 笔记 - Web 应用](#)
 - [ ] [Python 笔记 - 生成标签云](#)
 - [ ] [Python 笔记 - 图片识别](#)
 - [ ] [Python 笔记 - 使用爬虫](#)
