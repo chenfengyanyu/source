@@ -8,13 +8,16 @@
 - [x] [Next.js 使用指南1 ～ 基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
 
 ### 五、皋月
-- [ ] [Python 笔记 - Web 应用](#)
-- [ ] [Python 笔记 - 生成标签云](#)
-- [ ] [Python 笔记 - 图片识别](#)
-- [ ] [Python 笔记 - 使用爬虫](#)
-- [ ] [Python 笔记 - 小试分词](#)
-- [ ] [Python 笔记 - 简单语法2](#)
-- [x] [Python 笔记 - 简单语法1](http://jartto.wang/2018/05/19/learn-python-1/)
+- [ ] [Python 笔记10 - Web 应用](#)
+- [ ] [Python 笔记9 - 生成标签云](#)
+- [ ] [Python 笔记8 - 图片识别](#)
+- [ ] [Python 笔记7 - 使用爬虫](#)
+- [ ] [Python 笔记6 - 小试分词](#)
+- [ ] [Python 笔记5 - 掌握 Requests 模块](#)
+- [ ] [Python 笔记4 - 掌握 RE 模块](#)
+- [ ] [Python 笔记3 - 掌握 OS 模块](#)
+- [x] [Python 笔记2 - 常用操作](http://jartto.wang/2018/06/12/learn-python-2/)
+- [x] [Python 笔记1 - 简单语法](http://jartto.wang/2018/05/19/learn-python-1/)
 - [x] [UmiJs 尝鲜](http://jartto.wang/2018/05/24/taste-of-umi/)
 - [x] [构建你的 Dva2](http://jartto.wang/2018/05/24/build-your-dva2/)
 
