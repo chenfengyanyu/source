@@ -9,6 +9,7 @@
 - [x] [Next.js 使用指南1 ～ 基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
 
 ### 五、皋月
+- [ ] [Python 笔记14 - 总结](#)
 - [ ] [Python 笔记13 - Web 应用](#)
 - [ ] [Python 笔记12 - 生成标签云](#)
 - [ ] [Python 笔记11 - 图片识别](#)
@@ -19,7 +20,7 @@
 - [ ] [Python 笔记 6 - 掌握 RE 模块](#)
 - [ ] [Python 笔记 5 - 文件读写操作](#)
 - [ ] [Python 笔记 4 - OS 与 Sys 模块](#)
-- [ ] [Python 笔记 3 - Open 文件操作](#)
+- [x] [Python 笔记 3 - Open 文件操作](http://jartto.wang/2018/06/24/learn-python-3/)
 - [x] [Python 笔记 2 - 常用操作](http://jartto.wang/2018/06/12/learn-python-2/)
 - [x] [Python 笔记 1 - 简单语法](http://jartto.wang/2018/05/19/learn-python-1/)
 - [x] [UmiJs 尝鲜](http://jartto.wang/2018/05/24/taste-of-umi/)
