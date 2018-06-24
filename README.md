@@ -3,23 +3,25 @@
 
 ## 2018
 ### 六、旦月
+- [ ] [简话开源协议](#)
 - [x] [Next.js 使用指南3 ～ 高级配置](http://jartto.wang/2018/06/08/nextjs-3/)
 - [x] [Next.js 使用指南2 ～ 路由与加载](http://jartto.wang/2018/06/01/nextjs-2/)
 - [x] [Next.js 使用指南1 ～ 基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
 
 ### 五、皋月
-- [ ] [Python 笔记12 - Web 应用](#)
-- [ ] [Python 笔记11 - 生成标签云](#)
-- [ ] [Python 笔记10 - 图片识别](#)
-- [ ] [Python 笔记9 - 使用爬虫](#)
-- [ ] [Python 笔记8 - 小试分词](#)
-- [ ] [Python 笔记7 - 图像处理 PIL](#)
-- [ ] [Python 笔记6 - 掌握 Requests 模块](#)
-- [ ] [Python 笔记5 - 掌握 RE 模块](#)
-- [ ] [Python 笔记4 - 文件读写操作](#)
-- [ ] [Python 笔记3 - OS 与 Sys 模块](#)
-- [x] [Python 笔记2 - 常用操作](http://jartto.wang/2018/06/12/learn-python-2/)
-- [x] [Python 笔记1 - 简单语法](http://jartto.wang/2018/05/19/learn-python-1/)
+- [ ] [Python 笔记13 - Web 应用](#)
+- [ ] [Python 笔记12 - 生成标签云](#)
+- [ ] [Python 笔记11 - 图片识别](#)
+- [ ] [Python 笔记10 - 使用爬虫](#)
+- [ ] [Python 笔记 9 - 小试分词](#)
+- [ ] [Python 笔记 8 - 图像处理 PIL](#)
+- [ ] [Python 笔记 7 - 掌握 Requests 模块](#)
+- [ ] [Python 笔记 6 - 掌握 RE 模块](#)
+- [ ] [Python 笔记 5 - 文件读写操作](#)
+- [ ] [Python 笔记 4 - OS 与 Sys 模块](#)
+- [ ] [Python 笔记 3 - Open 文件操作](#)
+- [x] [Python 笔记 2 - 常用操作](http://jartto.wang/2018/06/12/learn-python-2/)
+- [x] [Python 笔记 1 - 简单语法](http://jartto.wang/2018/05/19/learn-python-1/)
 - [x] [UmiJs 尝鲜](http://jartto.wang/2018/05/24/taste-of-umi/)
 - [x] [构建你的 Dva2](http://jartto.wang/2018/05/24/build-your-dva2/)
 
