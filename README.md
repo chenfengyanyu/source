@@ -2,10 +2,12 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2018
-### 六、旦月
+### 七、凉月
 - [ ] [完美渲染之数学公式](#)
 - [ ] [你可能会忽略的 Git 提交规范](#)
-- [ ] [简话开源协议](#)
+
+### 六、旦月
+- [x] [简话开源协议](http://jartto.wang/2018/06/29/talk-about-license/)
 - [x] [Next.js 使用指南3 ～ 高级配置](http://jartto.wang/2018/06/08/nextjs-3/)
 - [x] [Next.js 使用指南2 ～ 路由与加载](http://jartto.wang/2018/06/01/nextjs-2/)
 - [x] [Next.js 使用指南1 ～ 基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
