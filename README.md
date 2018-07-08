@@ -4,7 +4,7 @@
 ## 2018
 ### 七、凉月
 - [ ] [完美渲染之数学公式](#)
-- [ ] [你可能会忽略的 Git 提交规范](#)
+- [x] [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/)
 
 ### 六、旦月
 - [x] [简话开源协议](http://jartto.wang/2018/06/29/talk-about-license/)
