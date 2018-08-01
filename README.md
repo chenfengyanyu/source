@@ -3,7 +3,7 @@
 
 ## 2018
 ### 七、凉月
-- [ ] [完美渲染之数学公式](#)
+- [x] [完美渲染之数学公式](http://jartto.wang/2018/07/08/perfect-math/)
 - [x] [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/)
 
 ### 六、旦月
