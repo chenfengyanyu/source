@@ -2,8 +2,16 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2018
+### 九、玄月
+- [ ] [使用 Nodejs 生成网页 PDF](#)
+- [ ] [HTML5 Web Notification](#)
+- [ ] [大话 requestAnimationFrame ](#)
+
 ### 八、桂月
 - [ ] [了解 Kafka](#)
+- [ ] [开发你的专属 Chrome 插件](#)
+- [ ] [HTML5 之消息通知（Web Notification）](#)
+- [ ] [HTML5 之音频合成（SpeechSynthesisUtterance）](#)
 
 ### 七、凉月
 - [x] [完美渲染之数学公式](http://jartto.wang/2018/07/08/perfect-math/)
@@ -93,20 +101,16 @@
 
 ### 八、桂月
 - [x] [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
-- [ ] [开发 Chrome 插件示例](#)
 
 ### 七、凉月
-- [ ] [大话 requestAnimationFrame ](#)
 - [ ] [ESlint 与 JSHint](#)
 - [x] [ES6 边学边用二](http://jartto.wang/2017/07/05/use-es6-2/)
 
 ### 六、旦月
 - [x] [HTML5 之全屏（Fullscreen API）](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
-- [ ] [HTML5 之音频合成（SpeechSynthesisUtterance）](#)
 - [x] [ES6 边学边用一](http://jartto.wang/2017/06/09/use-es6/)
 
 ### 五、皋月
-- [ ] [HTML5 之消息通知（Web Notification）](#)
 - [x] [在 React 中接入 Google Map](http://jartto.wang/2017/05/18/use-google-map-in-react/)
 - [x] [Howler 音频播放插件](http://jartto.wang/2017/05/03/guide-of-howler/)
 
