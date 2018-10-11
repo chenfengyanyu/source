@@ -8,7 +8,7 @@
 - [ ] [大话 requestAnimationFrame ](#)
 
 ### 八、桂月
-- [ ] [了解 Kafka](#)
+- [x] [了解 Kafka](http://jartto.wang/2018/10/12/about-kafka/)
 - [ ] [开发你的专属 Chrome 插件](#)
 - [ ] [HTML5 之消息通知（Web Notification）](#)
 - [ ] [HTML5 之音频合成（SpeechSynthesisUtterance）](#)
