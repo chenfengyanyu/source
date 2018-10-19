@@ -6,7 +6,7 @@
 - [ ] [算法图解笔记](#)
 
 ### 九、玄月
-- [ ] [使用 Nodejs 生成网页 PDF](#)
+- [x] [使用 Nodejs 生成网页 PDF](http://jartto.wang/2018/10/13/nodejs-pdf/)
 - [ ] [大话 requestAnimationFrame ](#)
 
 ### 八、桂月
