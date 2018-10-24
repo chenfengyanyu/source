@@ -7,7 +7,7 @@
 - [x] [Puppeteer 异常处理](http://jartto.wang/2018/10/23/puppeteerjs/)
 
 ### 九、玄月
-- [x] [使用 Nodejs 生成网页 PDF](http://jartto.wang/2018/10/13/nodejs-pdf/)
+- [x] [抓取网页生成 PDF](http://jartto.wang/2018/10/13/nodejs-pdf/)
 - [ ] [大话 requestAnimationFrame ](#)
 
 ### 八、桂月
