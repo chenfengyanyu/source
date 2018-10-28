@@ -4,6 +4,7 @@
 ## 2018
 ### 十、良月
 - [ ] [算法图解笔记](#)
+- [x] [快速上手 Kafka](http://jartto.wang/2018/10/28/start-kafka/)
 - [x] [Puppeteer 异常处理](http://jartto.wang/2018/10/23/puppeteerjs/)
 
 ### 九、玄月
