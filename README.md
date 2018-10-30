@@ -14,7 +14,7 @@
 ### 八、桂月
 - [x] [了解 Kafka](http://jartto.wang/2018/10/12/about-kafka/)
 - [ ] [开发你的专属 Chrome 插件](#)
-- [ ] [HTML5 之消息通知（Web Notification）](#)
+- [x] [HTML5 之消息通知（Web Notification）](http://jartto.wang/2018/10/30/html5-notification/)
 - [ ] [HTML5 之音频合成（SpeechSynthesisUtterance）](#)
 
 ### 七、凉月
