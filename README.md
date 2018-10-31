@@ -2,6 +2,9 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2018
+### 十一、葭月
+- [] [移动端调试全攻略](#)
+
 ### 十、良月
 - [ ] [算法图解笔记](#)
 - [x] [快速上手 Kafka](http://jartto.wang/2018/10/28/start-kafka/)
@@ -15,7 +18,7 @@
 - [x] [了解 Kafka](http://jartto.wang/2018/10/12/about-kafka/)
 - [ ] [开发你的专属 Chrome 插件](#)
 - [x] [HTML5 之消息通知（Web Notification）](http://jartto.wang/2018/10/30/html5-notification/)
-- [ ] [HTML5 之音频合成（SpeechSynthesisUtterance）](#)
+- [x] [HTML5 之音频合成（SpeechSynthesis）](http://jartto.wang/2018/10/31/h5-SpeechSynthesis/)
 
 ### 七、凉月
 - [x] [完美渲染之数学公式](http://jartto.wang/2018/07/08/perfect-math/)
