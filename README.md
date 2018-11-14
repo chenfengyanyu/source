@@ -3,7 +3,11 @@
 
 ## 2018
 ### 十一、葭月
+- [ ] [AST 抽象语法树](#)
+- [ ] [如何优雅处理前端异常？](#)
+- [x] [CSP 概要](http://jartto.wang/2018/11/12/outline-of-CSP/)
 - [x] [H5 移动调试全攻略](http://jartto.wang/2018/11/01/mobile-debug/)
+- [ ] [HTML5 之地理定位](#)
 
 ### 十、良月
 - [ ] [算法图解笔记](#)
@@ -12,11 +16,11 @@
 
 ### 九、玄月
 - [x] [抓取网页生成 PDF](http://jartto.wang/2018/10/13/nodejs-pdf/)
-- [ ] [大话 requestAnimationFrame ](#)
+- [ ] [大话 requestAnimationFrame](#)
 
 ### 八、桂月
 - [x] [了解 Kafka](http://jartto.wang/2018/10/12/about-kafka/)
-- [ ] [开发你的专属 Chrome 插件](#)
+- [x] [打造你的专属 Chrome 插件（一）](http://jartto.wang/2018/11/10/chrome-extensions-1/)
 - [x] [HTML5 之消息通知（Web Notification）](http://jartto.wang/2018/10/30/html5-notification/)
 - [x] [HTML5 之音频合成（SpeechSynthesis）](http://jartto.wang/2018/10/31/h5-SpeechSynthesis/)
 
