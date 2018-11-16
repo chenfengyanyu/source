@@ -7,7 +7,7 @@
 - [ ] [如何优雅处理前端异常？](#)
 - [x] [CSP 概要](http://jartto.wang/2018/11/12/outline-of-CSP/)
 - [x] [H5 移动调试全攻略](http://jartto.wang/2018/11/01/mobile-debug/)
-- [ ] [HTML5 之地理定位](#)
+- [x] [HTML5 之地理定位（Geolocation）](http://jartto.wang/2018/11/16/html5-geolocation/)
 
 ### 十、良月
 - [ ] [算法图解笔记](#)
