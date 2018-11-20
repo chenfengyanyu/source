@@ -7,7 +7,6 @@
 - [x] [如何优雅处理前端异常？](http://jartto.wang/2018/11/20/js-exception-handling/)
 - [x] [CSP 概要](http://jartto.wang/2018/11/12/outline-of-CSP/)
 - [x] [H5 移动调试全攻略](http://jartto.wang/2018/11/01/mobile-debug/)
-- [x] [HTML5 之地理定位（Geolocation）](http://jartto.wang/2018/11/16/html5-geolocation/)
 
 ### 十、良月
 - [ ] [算法图解笔记1一二分查找和大O表示法](#)
@@ -22,6 +21,7 @@
 ### 八、桂月
 - [x] [了解 Kafka](http://jartto.wang/2018/10/12/about-kafka/)
 - [x] [打造你的专属 Chrome 插件（一）](http://jartto.wang/2018/11/10/chrome-extensions-1/)
+- [x] [HTML5 之地理定位（Geolocation）](http://jartto.wang/2018/11/16/html5-geolocation/)
 - [x] [HTML5 之消息通知（Web Notification）](http://jartto.wang/2018/10/30/html5-notification/)
 - [x] [HTML5 之音频合成（SpeechSynthesis）](http://jartto.wang/2018/10/31/h5-SpeechSynthesis/)
 
