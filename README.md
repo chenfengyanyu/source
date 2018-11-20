@@ -3,20 +3,21 @@
 
 ## 2018
 ### 十一、葭月
-- [ ] [AST 抽象语法树](#)
-- [ ] [如何优雅处理前端异常？](#)
+- [x] [AST 抽象语法树](http://jartto.wang/2018/11/17/about-ast/)
+- [x] [如何优雅处理前端异常？](http://jartto.wang/2018/11/20/js-exception-handling/)
 - [x] [CSP 概要](http://jartto.wang/2018/11/12/outline-of-CSP/)
 - [x] [H5 移动调试全攻略](http://jartto.wang/2018/11/01/mobile-debug/)
 - [x] [HTML5 之地理定位（Geolocation）](http://jartto.wang/2018/11/16/html5-geolocation/)
 
 ### 十、良月
-- [ ] [算法图解笔记](#)
+- [ ] [算法图解笔记1一二分查找和大O表示法](#)
 - [x] [快速上手 Kafka](http://jartto.wang/2018/10/28/start-kafka/)
 - [x] [Puppeteer 异常处理](http://jartto.wang/2018/10/23/puppeteerjs/)
 
 ### 九、玄月
-- [x] [抓取网页生成 PDF](http://jartto.wang/2018/10/13/nodejs-pdf/)
 - [ ] [大话 requestAnimationFrame](#)
+- [x] [抓取网页生成 PDF](http://jartto.wang/2018/10/13/nodejs-pdf/)
+- [ ] [DevOps 简介](#)
 
 ### 八、桂月
 - [x] [了解 Kafka](http://jartto.wang/2018/10/12/about-kafka/)
