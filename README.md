@@ -2,6 +2,11 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2018
+### 十二、涂月
+- [ ] [算法图解笔记2](#)
+- [x] [算法图解笔记1一二分查找和大O表示法](http://jartto.wang/2018/11/22/algorithm1/)
+- [ ] [indexedDB 实战](#)
+
 ### 十一、葭月
 - [x] [AST 抽象语法树](http://jartto.wang/2018/11/17/about-ast/)
 - [x] [如何优雅处理前端异常？](http://jartto.wang/2018/11/20/js-exception-handling/)
@@ -9,14 +14,13 @@
 - [x] [H5 移动调试全攻略](http://jartto.wang/2018/11/01/mobile-debug/)
 
 ### 十、良月
-- [x] [算法图解笔记1一二分查找和大O表示法](http://jartto.wang/2018/11/22/algorithm1/)
 - [x] [快速上手 Kafka](http://jartto.wang/2018/10/28/start-kafka/)
 - [x] [Puppeteer 异常处理](http://jartto.wang/2018/10/23/puppeteerjs/)
 
 ### 九、玄月
 - [ ] [大话 requestAnimationFrame](#)
 - [x] [抓取网页生成 PDF](http://jartto.wang/2018/10/13/nodejs-pdf/)
-- [ ] [DevOps 简介](#)
+- [x] [DevOps 简介](http://jartto.wang/2018/11/25/about-devops/)
 
 ### 八、桂月
 - [x] [了解 Kafka](http://jartto.wang/2018/10/12/about-kafka/)
