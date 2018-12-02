@@ -3,9 +3,9 @@
 
 ## 2018
 ### 十二、涂月
-- [ ] [算法图解笔记2](#)
+- [x] [算法图解笔记2-数组和链表](http://jartto.wang/2018/11/25/algorithm2/)
 - [x] [算法图解笔记1一二分查找和大O表示法](http://jartto.wang/2018/11/22/algorithm1/)
-- [ ] [indexedDB 实战](#)
+- [ ] [强大的浏览器存储 IndexedDB](#)
 
 ### 十一、葭月
 - [x] [AST 抽象语法树](http://jartto.wang/2018/11/17/about-ast/)
@@ -32,9 +32,9 @@
 ### 七、凉月
 - [x] [完美渲染之数学公式](http://jartto.wang/2018/07/08/perfect-math/)
 - [x] [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/)
+- [x] [简话开源协议](http://jartto.wang/2018/06/29/talk-about-license/)
 
 ### 六、旦月
-- [x] [简话开源协议](http://jartto.wang/2018/06/29/talk-about-license/)
 - [x] [Next.js 使用指南3 ～ 高级配置](http://jartto.wang/2018/06/08/nextjs-3/)
 - [x] [Next.js 使用指南2 ～ 路由与加载](http://jartto.wang/2018/06/01/nextjs-2/)
 - [x] [Next.js 使用指南1 ～ 基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
