@@ -6,7 +6,7 @@
 - [x] [Git 版本控制之 Git-Flow](http://jartto.wang/2018/12/05/git-flow/)
 - [x] [算法图解笔记2-数组和链表](http://jartto.wang/2018/11/25/algorithm2/)
 - [x] [算法图解笔记1一二分查找和大O表示法](http://jartto.wang/2018/11/22/algorithm1/)
-- [ ] [强大的浏览器存储 IndexedDB](#)
+- [x] [浏览器存储之争](http://jartto.wang/2018/12/02/indexeddb/)
 
 ### 十一、葭月
 - [x] [AST 抽象语法树](http://jartto.wang/2018/11/17/about-ast/)
