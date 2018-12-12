@@ -3,6 +3,8 @@
 
 ## 2018
 ### 十二、涂月
+- [x] [这一次彻底搞懂 Git Rebase](http://jartto.wang/2018/12/11/git-rebase/)
+- [x] [究竟什么是位图？](http://jartto.wang/2018/12/09/bitmap/)
 - [x] [Git 版本控制之 Git-Flow](http://jartto.wang/2018/12/05/git-flow/)
 - [x] [算法图解笔记2-数组和链表](http://jartto.wang/2018/11/25/algorithm2/)
 - [x] [算法图解笔记1一二分查找和大O表示法](http://jartto.wang/2018/11/22/algorithm1/)
