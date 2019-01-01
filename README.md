@@ -7,7 +7,7 @@
 
 ## 2018
 ### 十二、涂月
-- [x] [对不起，这些前端精选资源，我真的打包带走了](http://jartto.wang/2018/12/31/f2e-2018/)
+- [x] [用 Python 爬取 2018 前端热点](http://jartto.wang/2018/12/31/f2e-2018/)
 - [x] [HTML5 之多线程（Web Worker）](http://jartto.wang/2018/12/26/web-worker/)
 - [x] [不会管理的程序员，永远只是一个大兵](http://jartto.wang/2018/12/16/manage/)
 - [x] [这一次彻底搞懂 Git Rebase](http://jartto.wang/2018/12/11/git-rebase/)
