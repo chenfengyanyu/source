@@ -8,6 +8,7 @@
 ## 2018
 ### 十二、涂月
 - [x] [对不起，这些前端精选资源，我真的打包带走了](http://jartto.wang/2018/12/31/f2e-2018/)
+- [x] [HTML5 之多线程（Web Worker）](http://jartto.wang/2018/12/26/web-worker/)
 - [x] [不会管理的程序员，永远只是一个大兵](http://jartto.wang/2018/12/16/manage/)
 - [x] [这一次彻底搞懂 Git Rebase](http://jartto.wang/2018/12/11/git-rebase/)
 - [x] [究竟什么是位图？](http://jartto.wang/2018/12/09/bitmap/)
@@ -34,7 +35,7 @@
 ### 八、桂月
 - [x] [了解 Kafka](http://jartto.wang/2018/10/12/about-kafka/)
 - [x] [打造你的专属 Chrome 插件（一）](http://jartto.wang/2018/11/10/chrome-extensions-1/)
-- [x] [HTML5之多线程（Web Worker）](http://jartto.wang/2018/12/26/web-worker/)
+- [x] [HTML5 之多线程（Web Worker）](http://jartto.wang/2018/12/26/web-worker/)
 - [x] [HTML5 之地理定位（Geolocation）](http://jartto.wang/2018/11/16/html5-geolocation/)
 - [x] [HTML5 之消息通知（Web Notification）](http://jartto.wang/2018/10/30/html5-notification/)
 - [x] [HTML5 之音频合成（SpeechSynthesis）](http://jartto.wang/2018/10/31/h5-SpeechSynthesis/)
