@@ -2,9 +2,15 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2019
+### 四、清和月
+- [ ] [前端学什么？](#)
+- [ ] [酷炫的 HTML5 网页 PPT](#)
+- [ ] [如何做一位合格的面试官？](#)
+
 ### 二、如月
 - [x] [网站优化实战](http://jartto.wang/2019/02/16/web-optimization/)
 - [x] [聊一聊浏览器缓存机制](http://jartto.wang/2019/02/14/web-cache/)
+- [ ] [算法学习思路](#)
 
 ### 一、华月
 - [x] [酷炫的 JS 音频插件 Howlerjs](https://www.toutiao.com/i6638187815907623427/)
@@ -19,6 +25,9 @@
 - [x] [这一次彻底搞懂 Git Rebase](http://jartto.wang/2018/12/11/git-rebase/)
 - [x] [究竟什么是位图？](http://jartto.wang/2018/12/09/bitmap/)
 - [x] [Git 版本控制之 Git-Flow](http://jartto.wang/2018/12/05/git-flow/)
+- [x] [算法图解7 - 动态规划](http://jartto.wang/2018/11/29/algorithm7/)
+- [x] [算法图解6 - 狄克斯特拉算法与贪婪算法](http://jartto.wang/2018/11/29/algorithm6/)
+- [x] [算法图解5 - 图和广度优先搜索](http://jartto.wang/2018/11/28/algorithm5/)
 - [x] [算法图解4 - 散列表](http://jartto.wang/2019/02/20/algorithm4/)
 - [x] [算法图解3 - 递归，快排](http://jartto.wang/2018/11/26/algorithm3/)
 - [x] [算法图解2 - 数组和链表](http://jartto.wang/2018/11/25/algorithm2/)
