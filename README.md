@@ -4,13 +4,14 @@
 ## 2019
 ### 四、清和月
 - [ ] [前端学什么？](#)
-- [ ] [酷炫的 HTML5 网页 PPT](#)
-- [ ] [如何做一位合格的面试官？](#)
+- [x] [Nuxtjs 2.0 升级爬坑](http://jartto.wang/2019/04/23/update-nuxt2-0/)
+- [x] [酷炫的 HTML5 网页 PPT](http://jartto.wang/2019/04/15/amusing-ppt/)
+- [x] [如何成为合格的技术面试官？](http://jartto.wang/2019/04/07/learn-interview/)
 
 ### 二、如月
 - [x] [网站优化实战](http://jartto.wang/2019/02/16/web-optimization/)
 - [x] [聊一聊浏览器缓存机制](http://jartto.wang/2019/02/14/web-cache/)
-- [ ] [算法学习思路](#)
+- [x] [算法学习思路](http://jartto.wang/2019/04/07/learn-algorithm/)
 
 ### 一、华月
 - [x] [酷炫的 JS 音频插件 Howlerjs](https://www.toutiao.com/i6638187815907623427/)
