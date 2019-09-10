@@ -2,6 +2,11 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2019
+### 九、玄月
+- [x] [网站优化，这些工具你一定用得着](http://jartto.wang/2019/09/08/web-optimization-tools/)
+- [x] [程序员如何减少开发中的 Bug？](http://jartto.wang/2019/08/24/how-to-decrease-bugs/)
+
+
 ### 七、凉月
 - [x] [使用 Electron5.0 构建你的 React 项目](http://jartto.wang/2019/07/13/use-electron-5/)
 - [x] [Git 代码统计](http://jartto.wang/2019/07/09/git-stats/)
