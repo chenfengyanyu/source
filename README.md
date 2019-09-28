@@ -2,12 +2,16 @@
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
 ## 2019
+
+
 ### 九、玄月
+- [x] [成为优秀技术型领导的 16 条黄金法则](https://www.toutiao.com/i6739356054049522183/)
 - [x] [网站优化，这些工具你一定用得着](http://jartto.wang/2019/09/08/web-optimization-tools/)
 - [x] [程序员如何减少开发中的 Bug？](http://jartto.wang/2019/08/24/how-to-decrease-bugs/)
 
 
 ### 七、凉月
+- [x] [Web 前端不可错过的 6 个网站](https://www.toutiao.com/i6731688727866769934/)
 - [x] [使用 Electron5.0 构建你的 React 项目](http://jartto.wang/2019/07/13/use-electron-5/)
 - [x] [Git 代码统计](http://jartto.wang/2019/07/09/git-stats/)
 
@@ -16,7 +20,6 @@
 - [x] [进阶 PM2](http://jartto.wang/2019/05/24/pm2-cluster/)
 
 ### 四、清和月
-- [ ] [前端学什么？](#)
 - [x] [Nuxtjs 2.0 升级爬坑](http://jartto.wang/2019/04/23/update-nuxt2-0/)
 - [x] [酷炫的 HTML5 网页 PPT](http://jartto.wang/2019/04/15/amusing-ppt/)
 - [x] [如何成为合格的技术面试官？](http://jartto.wang/2019/04/07/learn-interview/)
