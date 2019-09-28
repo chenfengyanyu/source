@@ -1,7 +1,12 @@
-# [Jartto's blog](http://jartto.wang/)
+# [Jartto's blog](http://jartto.wang/) 
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
-## 入驻头条号：F2EAwesome，欢迎大家关注～
+# 头条号：「F2EAwesome」
+> 程序员不只是专注技术，更需要提高软实力！
+
+# 前端架构：[F2E-Awesome](https://github.com/f2e-awesome/knowledge)
+> 学习前端，你需要用尽全力。
+
 
 ## 2019
 
