@@ -1,14 +1,20 @@
-# [Jartto's blog](http://jartto.wang/) 
+## 个人博客：[Jartto's blog](http://jartto.wang/) 
 > 最遗憾的不是把梦想丢在路上，而是梦想从未上路！
 
-# 头条号：「F2EAwesome」
+## 前端架构：[F2E-Awesome](https://github.com/f2e-awesome/knowledge)
+> 学习前端，你需要用尽全力。
+
+## 头条专栏：[F2EAwesome](https://www.toutiao.com/c/user/5020385698/#mid=1619159036411908)
 > 程序员不只是专注技术，更需要提高软实力！
 
-# 前端架构：[F2E-Awesome](https://github.com/f2e-awesome/knowledge)
-> 学习前端，你需要用尽全力。
+
 
 
 ## 2019
+### 十、良月
+- [ ] [人工智能时代，Web 前端能做什么？](#)
+- [ ] [关于 CDN，看到这里就够了！](#)
+- [ ] [Nginx 负载参数看不懂？](#)
 
 ### 九、玄月
 - [x] [成为优秀技术型领导的 16 条黄金法则](https://www.toutiao.com/i6739356054049522183/)
