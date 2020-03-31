@@ -9,24 +9,26 @@
 
 
 ## 2020
-### 二、如月
-- [x] [四款酷炫「数字滚动」插件](https://www.toutiao.com/i6790693517644530184/)
-- [ ] [破局：技术视野与规划](#)
 
-### 一、华月
-- [x] [极简弹幕方案](#)
-- [x] [人工智能时代，Web 前端能做什么？](http://jartto.wang/2020/01/01/web-ai/)
-
-## 2019
-### 十二、涂月
-- [ ] [技术面试官如何有效招聘？](#)
-- [ ] [一文了解混合应用 Hybrid App 方案](#)
-- [ ] [大话 requestAnimationFrame](#)
-
-### 十一、葭月
+### 四、清和月
 - [ ] [关于 CDN，看到这里就够了！](#)
 - [ ] [前端压测指标](#)
 
+### 三、寐月
+- [x] [聚焦 Web 性能指标 TTI](http://jartto.wang/2020/03/29/web-tti/)
+- [x] [网站性能指标 - FMP](http://jartto.wang/2020/03/15/about-web-fmp/)
+
+### 二、如月
+- [x] [四款酷炫「数字滚动」插件](https://www.toutiao.com/i6790693517644530184/)
+- [x] [破局：技术视野与规划](http://jartto.wang/2020/03/08/breaking-the-game/)
+- [ ] [大话 requestAnimationFrame](#)
+
+### 一、华月
+- [x] [极简弹幕方案](http://jartto.wang/2020/02/16/web-barrager/)
+- [x] [人工智能时代，Web 前端能做什么？](http://jartto.wang/2020/01/01/web-ai/)
+- [ ] [一文了解混合应用 Hybrid App 方案](#)
+
+## 2019
 ### 十、良月
 - [x] [最重要的事只有一件！](http://mp.toutiao.com/preview_article/?pgc_id=6784019118262583819)
 - [x] [系统负载看不懂？](http://jartto.wang/2020/01/20/system-load/)
@@ -36,7 +38,6 @@
 - [x] [成为优秀技术型领导的 16 条黄金法则](https://www.toutiao.com/i6739356054049522183/)
 - [x] [网站优化，这些工具你一定用得着](http://jartto.wang/2019/09/08/web-optimization-tools/)
 - [x] [程序员如何减少开发中的 Bug？](http://jartto.wang/2019/08/24/how-to-decrease-bugs/)
-
 
 ### 七、凉月
 - [x] [Web 前端不可错过的 6 个网站](https://www.toutiao.com/i6731688727866769934/)
