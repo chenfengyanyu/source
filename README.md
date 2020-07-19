@@ -3,15 +3,12 @@
 
 ## 前端架构：[F2E-Awesome](https://github.com/f2e-awesome/knowledge)
 > 学习前端，你需要用尽全力。
-
-## 头条专栏：[F2EAwesome](https://www.toutiao.com/c/user/5020385698/#mid=1619159036411908)
-> 程序员不只是专注技术，更需要提高软实力！
  
 ## 2020
 
 ### 七、凉月
 - [ ] [微前端实践总结一](#)
-- [ ] [一文了解 Kubernetes 基础概念](#)
+- [x] [一文了解 Kubernetes 基础概念](http://jartto.wang/2020/07/15/start-k8s/)
 - [x] [Docker 边学边用](http://jartto.wang/2020/07/04/learn-docker/)
 
 ### 六、旦月
